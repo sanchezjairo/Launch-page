@@ -4,8 +4,17 @@ body {
 
 .navbar {
   padding 1rem;
-  background-color: blue;
+  background-color: white;
 }
-footer [
-padding 1px;
-]
+
+.btn-primary:hover {
+  background-color: blue;
+  color: white;
+}
+
+.hero-background-img {
+  background-image: url("ryan-warburton-yFC4SAmzrAI-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
